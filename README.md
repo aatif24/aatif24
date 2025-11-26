@@ -93,40 +93,16 @@ Automated workflow using instruction-tuned model behavior.
 
 ---
 
-# 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aatifshaikh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifshaikh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌀 **3D Contribution Graph**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 # 🔥 **Streak Stats**
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aatifshaikh&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=aatif24&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 👁️‍🗨️ **Visitors**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aatifshaikh&label=Profile%20Views&color=1AE6FF&style=flat" />
-</p>
-
----
 
 # 📫 **Connect With Me**
 📧 Email: **saatif24@gmail.com**  
 📞 Phone: **+91 9975856562**  
-🔗 LinkedIn: **https://linkedin.com/in/aatifshaikh**  
+🔗 LinkedIn: **https://linkedin.com/in/aatif24**  
 
 ---
 
