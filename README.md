@@ -98,6 +98,10 @@ Automated workflow using instruction-tuned model behavior.
   <img src="https://streak-stats.demolab.com?user=aatif24&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://gh-readme-profile.vercel.app/api?username=aatif24"/>
+</p>
+
 
 # **Connect With Me**
 📧 Email: **saatif24@gmail.com**  
