@@ -7,7 +7,7 @@
 <h3 align="center">Fullstack Engineer | Node.js • TypeScript • React • AWS • System Design</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=500&color=1AE6FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+%F0%9F%9A%80;Node.js+%26+TypeScript+Expert;AWS+Serverless+Architect;Event-Driven+Systems+Designer;10%2B+Years+Experience"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=500&color=1AE6FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+%F0%9F%9A%80;Node.js+%26+TypeScript+Expert;AWS+Serverless+Architect;Event-Driven+Systems+Designer;11%2B+Years+Experience"/>
 </p>
 
 ---
@@ -28,25 +28,25 @@ I love solving deep engineering problems and designing systems that scale reliab
 
 # 🛠 **Tech Stack & Tools**
 
-## 🚀 Languages  
+### Languages  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## ⚡ Backend  
+### Backend  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
 
-## 🎨 Frontend  
+### Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 
-## ☁ Cloud & DevOps  
+### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
 
-## 🗄 Databases  
+### Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -54,7 +54,7 @@ I love solving deep engineering problems and designing systems that scale reliab
 
 ---
 
-# 🧩 **Skill Matrix**
+### **Skill Matrix**
 
 | Category | Skills |
 |---------|--------|
@@ -68,7 +68,7 @@ I love solving deep engineering problems and designing systems that scale reliab
 
 ---
 
-# 🚀 **Highlighted Projects**
+### **Highlighted Projects**
 
 ### 🔹 **Event-Driven Remote Sync Service (AirFi)**
 Designed and built a distributed sync system powering aircraft operations  
@@ -93,13 +93,13 @@ Automated workflow using instruction-tuned model behavior.
 
 ---
 
-# 🔥 **Streak Stats**
+### **Streak Stats**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aatif24&theme=tokyonight&hide_border=true"/>
 </p>
 
 
-# 📫 **Connect With Me**
+# **Connect With Me**
 📧 Email: **saatif24@gmail.com**  
 📞 Phone: **+91 9975856562**  
 🔗 LinkedIn: **https://linkedin.com/in/aatif24**  
