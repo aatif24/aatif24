@@ -13,7 +13,7 @@
 ---
 
 # 👨‍💻 **About Me**
-I'm **Aatif Shaikh**, a Fullstack Engineer with **10+ years** building scalable backend services, cloud-native applications, and high-performance frontends.
+I'm **Aatif Shaikh**, a Fullstack Engineer with **11+ years** building scalable backend services, cloud-native applications, and high-performance frontends.
 
 I work across:
 - ⚡ **Node.js + TypeScript** (microservices, APIs, distributed systems)  
