@@ -1,33 +1,133 @@
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Aatif.
---------------------------------------------------------------------------
-
-A Developer and a tech Enthusiast
--------------------------------------
-
-Software Developer from Mumbai India, with rock-solid experience in building complex applications with cutting-edge technologies.
-
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Typescript, Shell Scripting, and Linux.
-- 👯 I’m open to collaborating on the Backend Project
-- 💬 Ask me about ...
-- 📫 How to reach me: me@aatif.in
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/243078136-0e747e64-8a26-4bfc-a8ea-ee6538e3f1a5.gif" width="600"/>
 </p>
 
+<h1 align="center">Hi, I'm Aatif 👋</h1>
+<h3 align="center">Fullstack Engineer | Node.js • TypeScript • React • AWS • System Design</h3>
 
-### Badges
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=500&color=1AE6FF&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+%F0%9F%9A%80;Node.js+%26+TypeScript+Expert;AWS+Serverless+Architect;Event-Driven+Systems+Designer;10%2B+Years+Experience"/>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="https://www.github.com/aatif24"><img src="https://github-readme-stats.vercel.app/api?username=aatif24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aatif24's GitHub stats" /></a>
+# 👨‍💻 **About Me**
+I'm **Aatif Shaikh**, a Fullstack Engineer with **10+ years** building scalable backend services, cloud-native applications, and high-performance frontends.
 
-<a href="https://www.github.com/aatif24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aatif24&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-[![aatif24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aatif24&bg_color=000000&color=ffe5fd&line=ffffff&point=b9b1b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+I work across:
+- ⚡ **Node.js + TypeScript** (microservices, APIs, distributed systems)  
+- ⚙️ **AWS Serverless** (Lambda, API Gateway, SQS/SNS, DynamoDB)  
+- 🧠 **AI automation pipelines** (instruction-based response systems)  
+- 🎨 **React + Next.js** (dashboards, portals, RBAC systems)  
+- 📊 **Large-scale migrations** (50M+ records)
 
-<a href="https://github.com/aatif24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatif24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+I love solving deep engineering problems and designing systems that scale reliably.
 
+---
+
+# 🛠 **Tech Stack & Tools**
+
+## 🚀 Languages  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## ⚡ Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs)
+
+## 🎨 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+
+## ☁ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
+
+## 🗄 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+---
+
+# 🧩 **Skill Matrix**
+
+| Category | Skills |
+|---------|--------|
+| **Backend** | Node.js, TypeScript, Microservices, Event-driven systems |
+| **Frontend** | React, Next.js, Tailwind, Component Architecture |
+| **Cloud Infra** | AWS Lambda, API Gateway, S3, SQS/SNS, EC2, IAM, DynamoDB |
+| **CI/CD** | GitHub Actions, GitLab CI, Bitbucket Pipelines, Docker |
+| **Databases** | MongoDB, DynamoDB, MySQL, Redis |
+| **AI/Automation** | Instruction-based AI pipelines, automated response generation |
+| **System Design** | Distributed systems, caching, queues, scalable APIs |
+
+---
+
+# 🚀 **Highlighted Projects**
+
+### 🔹 **Event-Driven Remote Sync Service (AirFi)**
+Designed and built a distributed sync system powering aircraft operations  
+- Zero-downtime  
+- AWS Lambda + S3 + SQS  
+- Fleet-wide sync reliability & automation
+
+### 🔹 **50M+ Record Zero-Downtime Migration**
+Architected a migration engine without downtime  
+- Automated batching  
+- Diffing & audit  
+- Monitoring dashboards
+
+### 🔹 **Next.js Operational Dashboards**
+Rich dashboards with  
+- RBAC  
+- Multi-client context switching  
+- Real-time analytics
+
+### 🔹 **AI Response Automation Pipeline**
+Automated workflow using instruction-tuned model behavior.
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aatifshaikh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifshaikh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌀 **3D Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🔥 **Streak Stats**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aatifshaikh&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 👁️‍🗨️ **Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aatifshaikh&label=Profile%20Views&color=1AE6FF&style=flat" />
+</p>
+
+---
+
+# 📫 **Connect With Me**
+📧 Email: **saatif24@gmail.com**  
+📞 Phone: **+91 9975856562**  
+🔗 LinkedIn: **https://linkedin.com/in/aatifshaikh**  
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to one of my repositories!</p>
