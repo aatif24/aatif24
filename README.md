@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 **About Me**
+### **About Me**
 I'm **Aatif Shaikh**, a Fullstack Engineer with **11+ years** building scalable backend services, cloud-native applications, and high-performance frontends.
 
 I work across:
@@ -26,7 +26,7 @@ I love solving deep engineering problems and designing systems that scale reliab
 
 ---
 
-# 🛠 **Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 ### Languages  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
